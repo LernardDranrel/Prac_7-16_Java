@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-mirea-main.iml" filepath="$PROJECT_DIR$/.idea/java-mirea-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prac10/prac10.iml" filepath="$PROJECT_DIR$/prac10/prac10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prac11/prac11.iml" filepath="$PROJECT_DIR$/prac11/prac11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prac12/prac12.iml" filepath="$PROJECT_DIR$/prac12/prac12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prac16/prac16.iml" filepath="$PROJECT_DIR$/prac16/prac16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prac7/prac7.iml" filepath="$PROJECT_DIR$/prac7/prac7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prac8/prac8.iml" filepath="$PROJECT_DIR$/prac8/prac8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prac9/prac9.iml" filepath="$PROJECT_DIR$/prac9/prac9.iml" />
+    </modules>
+  </component>
+</project>
